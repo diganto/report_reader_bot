@@ -1,0 +1,23 @@
+{
+  "name": "report_reader_bot",
+  "version": "1.0.0",
+  "description": "It's 440 in the morning, yay!!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diganto/report_reader_bot.git"
+  },
+  "keywords": [
+    "help"
+  ],
+  "author": "deegoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diganto/report_reader_bot/issues"
+  },
+  "homepage": "https://github.com/diganto/report_reader_bot#readme"
+}
